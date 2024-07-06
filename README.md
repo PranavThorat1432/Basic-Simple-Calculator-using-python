@@ -24,12 +24,10 @@ This is a basic calculator implemented in Python that can perform addition, subt
 
 ## Example Usage
 
-```
 Enter Num 1: 10
 Enter Num 2: 5
 Enter an operand (+,-,*,/) or 'q' to quit: +
 10.0 + 5.0 = 15.0
-```
 
 ## License
 
