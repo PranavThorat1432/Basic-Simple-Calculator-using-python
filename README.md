@@ -1,5 +1,3 @@
-Sure, here's a more concise `README.md` file for your basic simple calculator:
-
 ```markdown
 # Basic Simple Calculator
 
